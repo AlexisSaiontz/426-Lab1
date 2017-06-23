@@ -1,7 +1,7 @@
 # Assignment 1: Simple HTTP API for an in-memory graph #
 
 ----
-
+##Pair programmed by Alex Saiontz and Stelios Rousoglou##
 ## Introduction ##
 
 In this lab you will start by implementing a simple single-node in-memory version of your server, which will store undirected graphs.
